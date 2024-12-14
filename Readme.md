@@ -9,6 +9,4 @@ Check both containers is running:
 ```bash
 docker ps
 ```
-For more details about how to use Kafka in .NET watch this video:
 
-[![Watch the video](https://img.youtube.com/vi/-jh1Yy_ymLk/hqdefault.jpg)](https://youtu.be/-jh1Yy_ymLk)
