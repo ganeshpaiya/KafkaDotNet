@@ -9,4 +9,5 @@ Check both containers is running:
 ```bash
 docker ps
 ```
+![image](https://github.com/user-attachments/assets/336206ca-17ce-4124-ba64-7414b7313738)
 
